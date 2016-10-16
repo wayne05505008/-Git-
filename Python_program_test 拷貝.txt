@@ -1,0 +1,4 @@
+Python Program Testing
+%%% 01 Laziness is one of the most terrible problems of humanity.
+%%% 02 Therefore, it is of great necessity to improve it.
+%%% 03 As far as I am concerned, reading is a good way to get rid of it.
